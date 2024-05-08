@@ -46,7 +46,7 @@ def indexx():
     if x_forwarded_for != '169.172.18.9':
         return 'Access denied. Please use a proxy, your ip should originate from 169.172.18.9' 
     else:
-        return 'flag{H3ad3rs_4r3_4w3s0m3!}' 
+        return 'affric{H3ad3rs_4r3_4w3s0m3!}' 
 
 
 
